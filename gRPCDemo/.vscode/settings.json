@@ -1,0 +1,4 @@
+{
+  "dotnet.defaultSolution": "gRPCDemo.sln",
+  "git.ignoreLimitWarning": true
+}
